@@ -10,7 +10,7 @@
              {
 		                "id"          : 2,
                     "symbol"      : "DE",
-                    "countryName" : "لطفا Packet VPN را در گوگل پلی جست وجو کنید",
+                    "countryName" : "لطفا Packet VN را در گوگل پلی جست وجو کنید",
                     "ping"        : 0,
                     "config"      : "vless://b65af228-ddc7-4729-9ad7-7e2755dc2d1c@dimitris.ns.cloudflare.com:443?encryption=none&security=tls&sni=fgysuaikdgijekmdfsgrewdcf4ds845f4v8g65t1yh5g845f1ds54fv1b25sd41.gorebbbh.workers.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fgysuaikdgijekmdfsgrewdcf4ds845f4v8g65t1yh5g845f1ds54fv1b25sd41.gorebbbh.workers.dev&path=%2Fldthws#PacketVPN11" 
             }
