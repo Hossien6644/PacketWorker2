@@ -1,10 +1,10 @@
 {
-      "adStatusEnable"          : true,
+      "adStatusEnable"          : false,
       "delayInterstitialAd"     : 6000,
       "loadAdStatus"            : "SELECT_SERVER",
       "notificationDescription" : "Wellcome",
       "notificationTitle"       : "We are here with free servers ", 
       "notificationID"          : 1,
-      "timer"                   : 1800000 ,
+      "timer"                   : 99999999 ,
       "channelLink"             :"https://t.me/PacketVPNService"             
 }
